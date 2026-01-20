@@ -1,27 +1,25 @@
- 💫 About Me:
-📌 About Me
+ 💫 About Me
 Hi, I’m Imran Kathat — a self‑taught Data Engineer, Analytics Architect, and Automation Consultant from Rajasthan, India.
 
-🔧 What I Build  
-I design and deploy modular data analysis engines using Python, dbt, PySpark, and Docker, secured with advanced cryptography techniques (hashing, salting, peppering). My systems are architected to deliver instant insights, automate workflows, and protect sensitive data with enterprise‑grade security.
+🚀 Entrepreneurship Journey  
+I’ve founded and closed startups, faced funding challenges, and navigated multiple pivots. Each step taught me resilience, product discipline, and how to connect technology with business outcomes. My entrepreneurial journey sharpened my ability to design systems that deliver measurable ROI, even under constraints.
 
-🚀 My Edge  
-I leverage AI‑augmented development to accelerate coding, but every architectural decision, integration, and deployment is my own. My automation engines are designed to replace the repetitive work of dozens of analysts, enabling faster, more reliable business intelligence.
+🔧 What I Build  
+I design modular data analysis engines using Python, dbt, PySpark, and Docker, secured with advanced cryptography (hashing, salting, peppering, SHA‑256). These engines automate workflows, mask sensitive data, and deliver instant insights — replacing repetitive analyst tasks with scalable automation.
 
 📊 Current Focus
 
-Building scalable analytics pipelines with dbt + PySpark.
+Building secure, Dockerized analytics pipelines with dbt + PySpark.
 
-Expanding my data analysis engine into a secure, enterprise‑ready product.
+Expanding my proprietary data analysis engine into an enterprise‑ready product.
 
-Learning investment banking and equity research to connect data engineering with financial decision‑making.
+Exploring investment banking and equity research to bridge data engineering with financial decision‑making.
 
 🌍 Career Goals  
-I’m seeking opportunities with top US companies that value self‑learned expertise and demonstrable impact over formal degrees. My aim is to contribute as a Senior Data Engineer / Analytics Architect, delivering measurable ROI through automation and secure data workflows.
+I’m seeking opportunities with top US/global companies that value demonstrable skill and business impact over formal degrees. My model is task‑bounded delivery: clear outcomes within agreed timelines, independent of fixed time zones.
 
 🔒 Security Commitment  
-My engine ensures data masking and encryption even for privileged users, protecting sensitive information with SHA‑256 and layered security methods.
-
+My systems ensure data masking and encryption even for privileged users, protecting sensitive information with layered security methods.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IMRAN KATHAT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imrankhan210r@gmail.com) 
