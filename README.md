@@ -1,5 +1,26 @@
-# 💫 About Me:
-im currently working on being data engineer using dbt pysprtk and db and my own data analysis engine cover in docker secured by crypto and hashing salting peppering and <br><br>currently im looking tto work weith top us companies whgich prefer self learned data skills over foramla degrees <br><br>currently im also learning investment banking and equity research also<br><br>im from beawar city of rajasthan , city near to home towen of ex ceo of twitter parag agagarwal 
+ 💫 About Me:
+📌 About Me
+Hi, I’m Imran Kathat — a self‑taught Data Engineer, Analytics Architect, and Automation Consultant from Rajasthan, India.
+
+🔧 What I Build  
+I design and deploy modular data analysis engines using Python, dbt, PySpark, and Docker, secured with advanced cryptography techniques (hashing, salting, peppering). My systems are architected to deliver instant insights, automate workflows, and protect sensitive data with enterprise‑grade security.
+
+🚀 My Edge  
+I leverage AI‑augmented development to accelerate coding, but every architectural decision, integration, and deployment is my own. My automation engines are designed to replace the repetitive work of dozens of analysts, enabling faster, more reliable business intelligence.
+
+📊 Current Focus
+
+Building scalable analytics pipelines with dbt + PySpark.
+
+Expanding my data analysis engine into a secure, enterprise‑ready product.
+
+Learning investment banking and equity research to connect data engineering with financial decision‑making.
+
+🌍 Career Goals  
+I’m seeking opportunities with top US companies that value self‑learned expertise and demonstrable impact over formal degrees. My aim is to contribute as a Senior Data Engineer / Analytics Architect, delivering measurable ROI through automation and secure data workflows.
+
+🔒 Security Commitment  
+My engine ensures data masking and encryption even for privileged users, protecting sensitive information with SHA‑256 and layered security methods.
 
 
 ## 🌐 Socials:
